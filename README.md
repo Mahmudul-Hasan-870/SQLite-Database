@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/android-sqlite-database.git
+   git clone https://github.com/Mahmudul-Hasan-870/SQLite-Database.git
 
 
 ## Features
